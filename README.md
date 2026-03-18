@@ -37,5 +37,14 @@ class _HomePageState extends State<HomePage> {
 
 # The picture of our screen where we have Button
 
+<img width="1718" height="1039" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/78c6cfc3-edc8-4500-902b-03ef16dc24bd" />
+
 
 # The picture of the widget when it is being displayed
+
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/1a0a9953-a7e6-4935-b18c-5a3bcadc26dd" />
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/9eeddcd3-2e5a-42ca-a49b-b5bf36a6ed4b" />
